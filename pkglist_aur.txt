@@ -1,0 +1,8 @@
+apulse
+graphite-gtk-theme-nord-rimless-normal-git
+i3exit
+lightdm-settings
+mkinitcpio-openswap
+nemo-compare
+stable-diffusion-ui
+yay
